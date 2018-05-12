@@ -1,0 +1,43 @@
+_repo: De-complete-werken-van-Joost-van-Vondel_21800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vondel, Joost van den
+    aliases:
+    - Vondel, Jost van den
+    - Vondelen, Joost van den
+    - Den Vondel, Joost van
+    - Van den Vondel, Joost
+    - Vondelen, J. V. (Joost van)
+    - Vondel, J. V. (Joost van)
+    birthdate: 1587
+    deathdate: 1679
+    gutenberg_agent_id: '7148'
+    url: http://www.gutenberg.org/2009/agents/7148
+    wikipedia: http://nl.wikipedia.org/wiki/Joost_van_den_Vondel
+  editor:
+    agent_name: Allard, H. J. (Hermann Jozef)
+    aliases:
+    - Allard, Hermann Jozef Petrus Hugo
+    - Allard, H.J.
+    birthdate: 1830
+    deathdate: 1915
+    gutenberg_agent_id: '24898'
+    url: http://www.gutenberg.org/2009/agents/24898
+description: ''
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21800'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch poetry'
+- !lcc 'PT'
+title: De complete werken van Joost van Vondel
+url: http://www.gutenberg.org/ebooks/21800
